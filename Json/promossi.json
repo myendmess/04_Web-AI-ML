@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Walter White",
+        "voto": 10
+    },
+    {
+        "nome": "Saul Goodman",
+        "voto": 8
+    },
+    {
+        "nome": "Hank Schrader",
+        "voto": 7
+    },
+    {
+        "nome": "Skyler White",
+        "voto": 6
+    }
+]
