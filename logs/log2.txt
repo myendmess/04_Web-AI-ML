@@ -1,0 +1,4 @@
+Login utente
+Operazione completata
+Attenzione: memoria bassa
+Errore: timeout

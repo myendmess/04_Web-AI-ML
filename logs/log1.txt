@@ -1,0 +1,4 @@
+Avvio del sistema
+Errore: connessione fallita
+Operazione completata con successo
+Errore: file non trovato
