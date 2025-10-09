@@ -1,0 +1,5 @@
+[
+    {"prodotto": "Monitor", "quantita": 3, "prezzo": 150.0},
+    {"prodotto": "Mouse", "quantita": 10, "prezzo": "Gratis"},
+    {"prodotto": "Tastiera", "quantita": "Due", "prezzo": 45.0}
+]
