@@ -64,3 +64,4 @@ plt.tight_layout()
 plt.show()
 
 print(model.get_booster().feature_types)
+print
