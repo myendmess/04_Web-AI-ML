@@ -26,8 +26,8 @@ model = Sequential([
 
 # Compila il modello
 model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
+            loss='sparse_categorical_crossentropy',
+            metrics=['accuracy'])
 
 # Addestra il modello
 history = model.fit(X_train, y_train, epochs=50, validation_data=(X_test, y_test), verbose=0)
